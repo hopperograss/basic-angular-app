@@ -1,0 +1,14 @@
+{
+  "name": "basic-angular-app",
+  "version": "0.1.0-0",
+  "description": "Basic Angular App",
+  "main": "index.js",
+  "author": "Blake Hopper",
+  "license": "(ISC OR GPL-3.0)",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "~2.0.0",
+    "jshint": "^2.9.4"
+  }
+}
